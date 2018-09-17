@@ -30,3 +30,4 @@ generatorConfig.xml
 /.nb-gradle/
 .gitattributes
 .idea/
+.idea/workspace.xml
