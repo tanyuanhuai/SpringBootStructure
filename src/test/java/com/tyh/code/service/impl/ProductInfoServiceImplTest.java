@@ -27,6 +27,10 @@ public class ProductInfoServiceImplTest extends ApplicationTests{
 
     }
 
+
+    /**
+     * 测试分页、条件、排序 查询
+     */
     @Test
     public void findList() {
         ProductGroup productGroup = new ProductGroup();
