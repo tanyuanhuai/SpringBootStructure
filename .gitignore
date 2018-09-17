@@ -29,5 +29,5 @@ generatorConfig.xml
 /nbdist/
 /.nb-gradle/
 .gitattributes
-.idea/
+.idea/*
 .idea/workspace.xml
